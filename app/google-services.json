@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "661343576118",
+    "firebase_url": "https://sample-ml-kit-bef53.firebaseio.com",
+    "project_id": "sample-ml-kit-bef53",
+    "storage_bucket": "sample-ml-kit-bef53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661343576118:android:9a95275f1ae3b7c9",
+        "android_client_info": {
+          "package_name": "com.ysn.sampleopticalcharacterrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661343576118-487n9gjkt73s4h2jvhncoal1hrlodmei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8pIW8qpcrWy3UmOiSzCMl6v8oQmarnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
